@@ -1,1 +1,1 @@
-Data anaslysis using MySQL
+Data analysis using MySQL
